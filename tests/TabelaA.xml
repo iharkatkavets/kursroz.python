@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="ISO-8859-2" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>NBP - Tabela A kursów średnich walut obcych</title>
+        <description>Tabela A kursów średnich walut obcych</description>
+        <link>http://www.nbp.pl/home.aspx?f=/Statystyka/kursy.html</link>
+        <atom:link href="http://rss.nbp.pl/kursy/TabelaA.xml" rel="self" type="application/rss+xml" />
+        <copyright>Copyright &#169; 2023. Narodowy Bank Polski</copyright>
+        <language>pl</language>
+       <webMaster>webmaster@nbp.pl (Webmaster NBP)</webMaster>
+       <lastBuildDate>Thu, 19 Jan 2023 11:45:06 +0100</lastBuildDate>
+        <image>
+            <url>http://rss.nbp.pl/kursy/img/NBP_rss_new.gif</url>
+            <link>http://www.nbp.pl/</link>
+            <title>NBP - Tabela A kursów średnich walut obcych</title>
+        </image>
+            <item>
+                <title>Tabela nr 013/A/NBP/2023 z dnia 2023-01-19</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,7053</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3469</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7437</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3625</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3873</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a013</link>
+                <pubDate>Thu, 19 Jan 2023 11:45:06 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a013.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a013</guid>
+            </item>
+            <item>
+                <title>Tabela nr 012/A/NBP/2023 z dnia 2023-01-18</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,7091</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3322</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7449</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3543</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3479</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a012</link>
+                <pubDate>Wed, 18 Jan 2023 11:45:00 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a012.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a012</guid>
+            </item>
+            <item>
+                <title>Tabela nr 011/A/NBP/2023 z dnia 2023-01-17</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6946</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3398</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7005</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2992</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3697</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a011</link>
+                <pubDate>Tue, 17 Jan 2023 11:45:07 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a011.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a011</guid>
+            </item>
+            <item>
+                <title>Tabela nr 010/A/NBP/2023 z dnia 2023-01-16</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,7004</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3436</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,6959</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2998</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3837</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a010</link>
+                <pubDate>Mon, 16 Jan 2023 11:45:02 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a010.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a010</guid>
+            </item>
+            <item>
+                <title>Tabela nr 009/A/NBP/2023 z dnia 2023-01-13</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6915</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3272</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,6600</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2910</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3661</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a009</link>
+                <pubDate>Fri, 13 Jan 2023 11:45:01 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a009.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a009</guid>
+            </item>
+            <item>
+                <title>Tabela nr 008/A/NBP/2023 z dnia 2023-01-12</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6888</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3556</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,6773</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3035</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3257</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a008</link>
+                <pubDate>Thu, 12 Jan 2023 11:45:09 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a008.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a008</guid>
+            </item>
+            <item>
+                <title>Tabela nr 007/A/NBP/2023 z dnia 2023-01-11</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6871</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3639</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7266</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2938</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2935</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a007</link>
+                <pubDate>Wed, 11 Jan 2023 11:45:02 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a007.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a007</guid>
+            </item>
+            <item>
+                <title>Tabela nr 006/A/NBP/2023 z dnia 2023-01-10</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6981</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3720</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7525</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3266</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3165</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a006</link>
+                <pubDate>Tue, 10 Jan 2023 11:45:11 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a006.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a006</guid>
+            </item>
+            <item>
+                <title>Tabela nr 005/A/NBP/2023 z dnia 2023-01-09</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6970</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4010</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7606</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3515</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3230</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a005</link>
+                <pubDate>Mon, 09 Jan 2023 11:45:12 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a005.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a005</guid>
+            </item>
+            <item>
+                <title>Tabela nr 004/A/NBP/2023 z dnia 2023-01-05</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6709</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3970</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7437</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2892</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3172</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a004</link>
+                <pubDate>Thu, 05 Jan 2023 11:45:10 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a004.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a004</guid>
+            </item>
+            <item>
+                <title>Tabela nr 003/A/NBP/2023 z dnia 2023-01-04</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6688</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3998</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7454</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3064</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3735</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a003</link>
+                <pubDate>Wed, 04 Jan 2023 11:45:01 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a003.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a003</guid>
+            </item>
+            <item>
+                <title>Tabela nr 002/A/NBP/2023 z dnia 2023-01-03</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6800</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4373</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7342</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2911</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,4020</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a002</link>
+                <pubDate>Tue, 03 Jan 2023 11:45:08 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a002.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a002</guid>
+            </item>
+            <item>
+                <title>Tabela nr 001/A/NBP/2023 z dnia 2023-01-02</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6784</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3811</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7379</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2768</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3469</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2023/a/23a001</link>
+                <pubDate>Mon, 02 Jan 2023 11:45:01 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2023/a/23a001.xml" length="6646" type="text/xml" />
+                <guid isPermaLink="false">23a001</guid>
+            </item>
+            <item>
+                <title>Tabela nr 252/A/NBP/2022 z dnia 2022-12-30</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6899</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4018</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7679</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2957</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3312</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a252</link>
+                <pubDate>Fri, 30 Dec 2022 11:45:08 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a252.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a252</guid>
+            </item>
+            <item>
+                <title>Tabela nr 251/A/NBP/2022 z dnia 2022-12-29</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6969</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4078</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7725</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3132</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2986</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a251</link>
+                <pubDate>Thu, 29 Dec 2022 11:45:01 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a251.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a251</guid>
+            </item>
+            <item>
+                <title>Tabela nr 250/A/NBP/2022 z dnia 2022-12-28</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6938</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4127</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7438</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3085</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2920</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a250</link>
+                <pubDate>Wed, 28 Dec 2022 11:45:09 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a250.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a250</guid>
+            </item>
+            <item>
+                <title>Tabela nr 249/A/NBP/2022 z dnia 2022-12-27</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6558</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3671</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7035</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2676</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2793</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a249</link>
+                <pubDate>Tue, 27 Dec 2022 11:45:04 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a249.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a249</guid>
+            </item>
+            <item>
+                <title>Tabela nr 248/A/NBP/2022 z dnia 2022-12-23</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6364</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3700</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,6925</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2722</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2962</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a248</link>
+                <pubDate>Fri, 23 Dec 2022 11:45:07 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a248.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a248</guid>
+            </item>
+            <item>
+                <title>Tabela nr 247/A/NBP/2022 z dnia 2022-12-22</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6551</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3726</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7358</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,2905</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3125</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a247</link>
+                <pubDate>Thu, 22 Dec 2022 11:45:00 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a247.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a247</guid>
+            </item>
+            <item>
+                <title>Tabela nr 246/A/NBP/2022 z dnia 2022-12-21</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6648</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3947</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7443</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3342</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3377</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a246</link>
+                <pubDate>Wed, 21 Dec 2022 11:45:08 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a246.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a246</guid>
+            </item>
+            <item>
+                <title>Tabela nr 245/A/NBP/2022 z dnia 2022-12-20</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6804</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4001</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7524</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3463</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,3320</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a245</link>
+                <pubDate>Tue, 20 Dec 2022 11:45:01 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a245.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a245</guid>
+            </item>
+            <item>
+                <title>Tabela nr 244/A/NBP/2022 z dnia 2022-12-19</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6886</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4153</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7453</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3926</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2436</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a244</link>
+                <pubDate>Mon, 19 Dec 2022 11:45:08 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a244.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a244</guid>
+            </item>
+            <item>
+                <title>Tabela nr 243/A/NBP/2022 z dnia 2022-12-16</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6934</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4227</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7564</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,3716</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2239</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a243</link>
+                <pubDate>Fri, 16 Dec 2022 11:45:13 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a243.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a243</guid>
+            </item>
+            <item>
+                <title>Tabela nr 242/A/NBP/2022 z dnia 2022-12-15</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6843</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,4100</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7482</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,4418</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2291</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a242</link>
+                <pubDate>Thu, 15 Dec 2022 11:45:02 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a242.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a242</guid>
+            </item>
+            <item>
+                <title>Tabela nr 241/A/NBP/2022 z dnia 2022-12-14</title>
+                <description>Tabela A kursów średnich
+                    <![CDATA[
+                    <br/><br/>
+                    <table>
+                        <tr align="right"><td colspan="2"><b>Wybrane kursy średnie:</b></td></tr>
+                            <tr align="right"><td>1 EUR =</td><td>4,6886</td></tr>
+                            <tr align="right"><td>1 USD =</td><td>4,3973</td></tr>
+                            <tr align="right"><td>1 CHF =</td><td>4,7439</td></tr>
+                            <tr align="right"><td>1 GBP =</td><td>5,4490</td></tr>
+                            <tr align="right"><td>100 JPY =</td><td>3,2516</td></tr>
+                    </table>
+                    ]]>
+                </description>
+                <link>http://rss.nbp.pl/kursy/TabRss.aspx?n=2022/a/22a241</link>
+                <pubDate>Wed, 14 Dec 2022 11:45:09 +0100</pubDate>
+                <enclosure url="http://rss.nbp.pl/kursy/xml2/2022/a/22a241.xml" length="6841" type="text/xml" />
+                <guid isPermaLink="false">22a241</guid>
+            </item>
+    </channel>
+</rss>
