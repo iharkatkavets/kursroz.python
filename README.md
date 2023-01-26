@@ -5,6 +5,7 @@ Made to simplify taxes calculations for individual entrepreneurs in Poland (Jedn
 
 ### How to run
 ```$ zsh
+% cd kursroz.python
 % python3 -m kursroz
 
 ```
