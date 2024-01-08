@@ -13,4 +13,4 @@ class ParseUtilsTests(unittest.TestCase):
     def testParseUsdRate(self):
         with open(THIS_DIR / 'rates.xml', 'rb') as f:
             rate = parse_usd_rate(f.read())
-            self.assertEqual('4.4100', rate)
+            self.assertEqual('4,4100', rate)

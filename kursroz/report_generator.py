@@ -36,6 +36,10 @@ class ReportBuilder:
         self.exchange_table_money_receive = str
         return self
 
+    def with_received_amount(self, received_amount):
+        self.received_amount = received_amount
+        return self
+
     @classmethod
     def report(cls):
         return cls()
@@ -54,6 +58,7 @@ class ReportGenerator:
         self.exchange_table_invoice_issue = builder.exchange_table_invoice_issue
         self.exchange_rate_money_receive = builder.exchange_rate_money_receive
         self.exchange_table_money_receive = builder.exchange_table_money_receive
+        self.received_amount = builder.received_amount
 
     def generate(self):
         self._begin()
@@ -72,7 +77,7 @@ class ReportGenerator:
 
     def _add_common_part(self):
         self.result += f'\n\nFakturę sprzedażową na kwotę {self.invoice_value} USD '\
-                f'wystawiłem {date_report_str(self.invoice_issue_date)}, a zapłatę otrzymałem '\
+                f'wystawiłem {date_report_str(self.invoice_issue_date)}, a zapłatę na kwote {self.received_amount} USD otrzymałem '\
                 f'{date_report_str(self.money_receive_date)}.'
 
     def _float(self, str):
@@ -90,16 +95,19 @@ class ReportGenerator:
         return self._float(self.exchange_rate_invoice_issue)*self._float(self.invoice_value)
 
     def _money_receive_amount(self):
-        return self._float(self.exchange_rate_money_receive)*self._float(self.invoice_value)
+        return self._float(self.exchange_rate_money_receive)*self._float(self.received_amount)
 
     def _exchange_differences(self):
-        return self._invoice_issued_amount() - self._money_receive_amount()
+        return self._money_receive_amount() - self._invoice_issued_amount()
 
     def _exchange_differences_str(self):
-        if self._exchange_differences() > 0: 
+        if self._exchange_differences() < 0: 
             return f'ujemne różnice kursowe'
-        else: 
+        elif self._exchange_differences() > 0: 
             return f'dodatnia różnica kursowa'
+        else:
+            return f'zero różnica kursowa'
+
 
     def _add_invoice_issue_exchanged_calculations(self):
         a = f'{self._float(self.exchange_rate_invoice_issue)}'
@@ -112,7 +120,7 @@ class ReportGenerator:
 
     def _add_money_received_exchanged_calculations(self):
         a = f'{self._float(self.exchange_rate_money_receive)}'
-        b = f'{self._round_to_2(self._float(self.invoice_value))}'
+        b = f'{self._round_to_2(self._float(self.received_amount))}'
         r = f'{self._round_to_4(self._money_receive_amount())}'
         formula = f'{a} x {b} = {r}'
         self.result += f'\n\nŚredni kurs NBP z ostatniego dnia roboczego poprzedzającego dzień otrzymania '\
@@ -120,8 +128,8 @@ class ReportGenerator:
                 f'\n{formula} zł'
 
     def _add_exchange_differences(self):
-        a = f'{self._round_to_4(self._invoice_issued_amount())}'
-        b = f'{self._round_to_4(self._money_receive_amount())}'
+        a = f'{self._round_to_4(self._money_receive_amount())}'
+        b = f'{self._round_to_4(self._invoice_issued_amount())}'
         r = f'{self._round_to_4(self._exchange_differences())}'
         formula = f'{a} - {b} = {r}'
         self.result += f'\n\n{formula} zl ({self._exchange_differences_str()})'

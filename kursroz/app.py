@@ -22,8 +22,11 @@ class App:
         money_receive_prompt = "Enter money receive date (YYYY/MM/DD): "
         self.money_receive_date = read_date(money_receive_prompt, date_format)
 
-        invoice_value_prompt = "Enter invoce ($) value: "
+        invoice_value_prompt = "Enter invoce value($): "
         self.invoice_value = read_double(invoice_value_prompt)
+
+        received_value_prompt = "Enter received amount($): "
+        self.received_amount = read_double(received_value_prompt)
 
 
     def fetch_data(self):
@@ -74,6 +77,7 @@ class App:
         .with_exchange_table_invoice_issue(self.invoice_issue_table)\
         .with_exchange_rate_money_receive(self.money_receive_rate)\
         .with_exchange_table_money_receive(self.money_receive_table)\
+        .with_received_amount(self.received_amount)\
         .generate()
         print(report)
     
